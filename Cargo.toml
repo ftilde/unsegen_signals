@@ -7,4 +7,4 @@ authors = ["ftilde <ftilde@protonmail.com>"]
 libc = "0.2"
 
 [dependencies.unsegen]
-path = ".."
+path = "../unsegen"
