@@ -13,6 +13,6 @@ keywords = ["terminal", "tui", "signals"]
 [dependencies]
 libc = "0.2"
 
-#[dependencies.unsegen]
+[dependencies.unsegen]
 #path = "../unsegen"
-unsegen = "0.0.1"
+version = "0.0.1"
