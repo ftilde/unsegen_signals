@@ -104,7 +104,7 @@ impl SignalBehavior {
     }
 }
 
-impl<'a> Behavior for SignalBehavior {
+impl Behavior for SignalBehavior {
     fn input(self, i: Input) -> Option<Input> {
         if let Some(sig) = self.mapping.get(&i.event) {
             unsafe {
