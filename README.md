@@ -1,5 +1,9 @@
 # unsegen_signals
 
+[![](https://img.shields.io/crates/v/unsegen_signals.svg)](https://crates.io/crates/unsegen_signals/)
+[![](https://docs.rs/unsegen_signals/badge.svg)](https://docs.rs/unsegen_signals/)
+[![](https://img.shields.io/crates/l/unsegen_signals.svg)]()
+
 `unsegen_signals` uses [unsegen](https://crates.io/crates/unsegen)'s input module to raise signals on the usual key combinations (e.g., SIGINT on CTRL-C).
 
 ## Getting Started
