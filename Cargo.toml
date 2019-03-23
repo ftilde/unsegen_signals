@@ -1,6 +1,6 @@
 [package]
 name = "unsegen_signals"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ftilde <ftilde@protonmail.com>"]
 
 description = "Use unsegen's input module to raise signals on the usual key combinations"
