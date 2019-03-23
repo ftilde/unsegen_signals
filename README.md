@@ -7,7 +7,7 @@
 `unsegen_signals` is [available on crates.io](https://crates.io/crates/unsegen_signals). You can install it by adding this line to your `Cargo.toml`:
 
 ```toml
-unsegen_signals = "0.0.1"
+unsegen_signals = "0.1.0"
 ```
 
 ## Examples
