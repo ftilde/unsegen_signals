@@ -1,6 +1,6 @@
 [package]
 name = "unsegen_signals"
-version = "0.2.0"
+version = "0.3.0"
 authors = ["ftilde <ftilde@protonmail.com>"]
 
 description = "Use unsegen's input module to raise signals on the usual key combinations"
@@ -12,4 +12,4 @@ keywords = ["terminal", "tui", "signals"]
 
 [dependencies]
 libc = "0.2"
-unsegen = "0.2"
+unsegen = "0.3"
